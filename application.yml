@@ -1,0 +1,5 @@
+server.port: 8081
+
+redis.host: localhost
+
+sdf.host: localhost
